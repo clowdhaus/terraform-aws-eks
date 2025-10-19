@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.0](https://github.com/clowdhaus/terraform-aws-eks/compare/v0.3.0...v0.4.0) (2025-10-19)
+
+### Features
+
+* Move changelog and add symlink ([66dd472](https://github.com/clowdhaus/terraform-aws-eks/commit/66dd472bc37d48ea1ff4203dee149ab875c04a51))
+
+### Bug Fixes
+
+* Remove temp file ([13a75ea](https://github.com/clowdhaus/terraform-aws-eks/commit/13a75ea92109b29c9244f891d9b89e0d42cb2ad3))
+
 ## [0.2.1](https://github.com/clowdhaus/terraform-aws-eks/compare/v0.2.0...v0.2.1) (2025-10-19)
 
 ### Bug Fixes
