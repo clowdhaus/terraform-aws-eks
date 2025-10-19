@@ -25,6 +25,11 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
+      - name: Set correct Node.js version
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
       - name: Release
         uses: cycjimmy/semantic-release-action@v5
         with:
