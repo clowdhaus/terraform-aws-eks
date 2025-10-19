@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.1](https://github.com/clowdhaus/terraform-aws-eks/compare/v0.2.0...v0.2.1) (2025-10-19)
+
+### Bug Fixes
+
+* CI should now succeed with corred node version ([0335e14](https://github.com/clowdhaus/terraform-aws-eks/commit/0335e146a46674de033a4f6700304edb6ce59252))
+* Do not install globally ([1d89095](https://github.com/clowdhaus/terraform-aws-eks/commit/1d89095447da9062c2648fc703c6ac51a353bc79))
+* Duh, remove the check that stops releases on forks ([5bdaec6](https://github.com/clowdhaus/terraform-aws-eks/commit/5bdaec6152286c6413d3d609ffd25c5cdd2e6852))
+* Try something different ([5eef0cd](https://github.com/clowdhaus/terraform-aws-eks/commit/5eef0cd54357b7b3515df7c46656bedf3b760505))
+* Try something different ([71b1c69](https://github.com/clowdhaus/terraform-aws-eks/commit/71b1c6929058ab571c2235524bd8079917f4f1e2))
+
 ## [21.4.0](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v21.3.2...v21.4.0) (2025-10-14)
 
 
