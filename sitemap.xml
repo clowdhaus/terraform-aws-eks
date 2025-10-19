@@ -5,6 +5,14 @@
          <lastmod>2025-10-19</lastmod>
     </url>
     <url>
+         <loc>https://terraform-aws-modules/terraform-aws-eks/CHANGELOG/</loc>
+         <lastmod>2025-10-19</lastmod>
+    </url>
+    <url>
+         <loc>https://terraform-aws-modules/terraform-aws-eks/CHANGELOG.pre-v11.0.0/</loc>
+         <lastmod>2025-10-19</lastmod>
+    </url>
+    <url>
          <loc>https://terraform-aws-modules/terraform-aws-eks/UPGRADE-17.0/</loc>
          <lastmod>2025-10-19</lastmod>
     </url>
