@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.5.0](https://github.com/clowdhaus/terraform-aws-eks/compare/v0.4.0...v0.5.0) (2025-10-19)
+
+### Features
+
+* Move changelog to docs dir ([79993ae](https://github.com/clowdhaus/terraform-aws-eks/commit/79993aec7ba7f82c0ed794081a1ec9c4e77e30de))
+
 ## [0.4.0](https://github.com/clowdhaus/terraform-aws-eks/compare/v0.3.0...v0.4.0) (2025-10-19)
 
 ### Features
