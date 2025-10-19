@@ -35,7 +35,7 @@ jobs:
           npm install -g \
             @semantic-release/changelog@6.0.3 \
             @semantic-release/git@10.0.1 \
-            conventional-changelog-conventionalcommits@7.1.1
+            conventional-changelog-conventionalcommits@9.1.0
 
       - name: Release
         uses: cycjimmy/semantic-release-action@v5
