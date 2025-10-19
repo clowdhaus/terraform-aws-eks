@@ -1,0 +1,4 @@
+locals {
+  this = "is cool"
+}
+
